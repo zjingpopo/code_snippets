@@ -5,7 +5,7 @@ return the solution, if not, return -1. If multiple solutions exist, return
 any of them.
 
 The integers in the array are between [0, 100]
-The length of the array are between [0, 100]
+The length of the array is between [0, 100]
 The target number is between [0, 10000]
 '''
 
